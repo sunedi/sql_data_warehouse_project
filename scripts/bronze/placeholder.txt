@@ -1,0 +1,5 @@
+DDL Script to Create Bronze Table
+
+This has been split between the source system and will creat the schema
+Will drop exising tables if they already exists
+Run this scripts to re-deine the DDL structure of the bronze Tablee
